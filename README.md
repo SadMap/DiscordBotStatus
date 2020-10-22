@@ -4,5 +4,4 @@
 #
 #
 #
-#Usage
-#`*durum <idle dnd online> <Activity Name> <Activity Type>`
+# Usage `*durum <idle dnd online> <Activity Name> <Activity Type>`
